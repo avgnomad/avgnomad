@@ -1,35 +1,112 @@
-010100101000100000001001000100011100011001010000001111100100010010111001001
-111110000011010000100111111010101110101010110010001101000011100111111011100
-101101101001000100101101100000110011010101001111101011001110011010000100100
-111100101010001000111010111111100001000110010101001010010010110011110100101
-010011011001101110001000111001011011000001101110100100100100000101111101111
-010001011111011000111001101010111100010000111111100010001111110100000010100
-110111110100011001010101010101001101001001101001111011010000001100100101110
-100010110000001000011111111110001110110000111000001101010011000000100011100
-101100110011011101011101000001000110100001010011101111011111101100110001010
-011110111110010011110101101010001100001011101011000000111110100000101000010
-001011011011011001111111011001101100001110010010000100111010111110010110011
-000010111110011100100011000111111000110011110110100111010111010101101011111
-100110100101111100111110000010111110111011101010010010010001110111000110100
-010100001001100110111001111010101011110010001011010110001100101010010110100
-100111000100011110101001110110101000010011000011110001110010100001001111000
-111100010001100001100000100110001100101111000101110000111010001111000001101
-110001100100101001010100111111000110101011000010110011000001110000111101010
-111010111110100101011110100010000111110111111010111100000101110001101100001
-001011101111001110011011100110111101101000100110001011001000010000001000000
-010100011100010111110010101000001100101011111101111111001101011000000000010
-010001111110110000101001101010110010010110011110001000000001111010111101001
-010011110101111000100101100100010010111000100010001010110101110100010001010
-100011010111000101101101011100011100111000001000010100001001000010010111101
-100010011010100100101101101010101000011100000101100011110111101001000101100
-111010111111000110011111001010011101111101010000010011000001001110101100100
-111000000011110100101000000100101000000010011010110000110011010100101000110
-000111011100111010100111100010100010111000010100101101011101111011100110001
-001111000000000001010110111000011111110000011001100011010100011011101110001
-110111100011101110001110001000010110111000110001101001111011011101111100010
-111011001101011000010100000000010000011110011111101011110010000001111011100
-001001101010011111101001100101010111000110100110010011010100010111101110001
-010100111010101100011000111001110010000100111010011010011011010011000100111
-101010111110001010111101110111011110011000111000011010101010110010111110100
-001000011101100100101001001010100101101000100111100001110001111011110100100
-011010100000001001010110010001101110010001001111001001101111010101101001000
+# Hey Everyone! I'm [Matthieu Brown a.k.a Matt!](https://github.com/MattyGB) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+<br><br>
+<a href="https://www.linkedin.com/in/matthieu-brown-aa46ab188//">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/MattyGB">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/_mattygbrown_/">
+  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.qwiklabs.com/public_profiles/9168c1cf-6f16-435c-a05e-5652669eb4b0">
+  <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
+</a>
+<a href="mailto:matthieu.brown@wutzu.com">
+  <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<br><br>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+
+## <p align="left"><h4 align="left"><samp> Global Project manager, Fullstack Developer, AI enthusiast & Cloud Architecture ☁ </samp></h4></p>
+
+```javascript
+const French = {
+  pronouns: "He" | "Him",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  Communities: {
+                        platform: "Discord",
+                        name: "Instinct E-Sports",
+                        size: "780 people",
+                        about: "COD Gaming",
+                        founder: "Matt Brown"
+                        
+                        platform: "Discord",
+                        name: "Foodies",
+                        size: "380 people",
+                        about: "All about food",
+                        founder: "Matt Brown & Hevar Abrihem"
+                      },
+ quote: "Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt. -Sun Tzu"
+}
+```
+
+##
+
+<div>
+<h3><b><samp>Experiences:</samp></b></h3>
+- 👷 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee(Aug,2020 - May,2022)<br>
+- 🔬 <samp>Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)<br>
+- 🕵🏻 <samp>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)<br>
+- 👨🏾‍💻 <samp>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)<br>
+- ☄️ <samp>Girlscript Ireland - Training - Game Development(August,2020)<br>
+- ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
+</div>
+
+##
+<h3><b><samp>Skills and Languages</samp></b></h3>
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat-square&logo=Wolfram&logoColor=white)
+![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
+![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+
+<span>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/php-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/wolfram-language.svg" alt="drawing" width="50"/>
+  </span>
+    
+##
+<h3><b><samp>Tools and Platform</samp></b></h3>
+
+![SmartThings](https://img.shields.io/badge/SmartThings-777BB4?style=flat-square&logo=SmartThings&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Qwiklabs](https://img.shields.io/badge/Qwiklabs-F5CD0E?style=flat-square&logo=Qwiklabs&logoColor=800000)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
+  
+<span>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
+</span>
