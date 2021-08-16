@@ -1,13 +1,10 @@
-# Hey Everyone! I'm [Matthieu Brown a.k.a Matt!](https://github.com/MattyGB) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey, I'm [Matt Brown!](https://github.com/MattyGB) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 <a href="https://www.linkedin.com/in/matthieu-brown-aa46ab188//">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/MattyGB">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/_mattygbrown_/">
-  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.qwiklabs.com/public_profiles/9168c1cf-6f16-435c-a05e-5652669eb4b0">
   <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
@@ -47,11 +44,10 @@ const French = {
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee(Aug,2020 - May,2022)<br>
-- 🔬 <samp>Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)<br>
-- 🕵🏻 <samp>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)<br>
+- 👷 <samp>Head of IT @ Heimstaden Germany (Jan,2021 - April,2021)<br>
+- 🔬 <samp>IT Systems Admin @ Skjerven Group (Sep, 2019 - Jan 2021)<br>
+- 🕵🏻 <samp>Investment Research Analyst at Skjerven Group (Oct,2020 - Jan,2021)<br>
 - 👨🏾‍💻 <samp>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)<br>
-- ☄️ <samp>Girlscript Ireland - Training - Game Development(August,2020)<br>
 - ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
 </div>
 
