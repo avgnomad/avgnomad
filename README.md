@@ -1,4 +1,4 @@
-# Hey, I'm [Matt Brown!](https://github.com/MattyGB) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey, I'm [Matt Brown!](https://github.com/MattyGB) <img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/waving-hand-joypixels.gif" width="30px">
 <br><br>
 <a href="https://www.linkedin.com/in/matthieu-brown-aa46ab188//">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -13,7 +13,7 @@
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <br><br>
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+![](https://github.com/MattyGB/MattyGB/blob/main/header_.png)
 
 ## <p align="left"><h4 align="left"><samp> Global Project manager, Fullstack Developer, AI enthusiast & Cloud Architecture ☁ </samp></h4></p>
 
@@ -68,17 +68,17 @@ const French = {
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
 
 <span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/php-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/wolfram-language.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/c.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/arduino-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/php-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/html.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/css.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/wolfram-language.svg" alt="drawing" width="50"/>
   </span>
     
 ##
@@ -97,12 +97,12 @@ const French = {
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
   
 <span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/github-icon.svg" alt="drawing" width="40"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
+<img src="https://github.com/MattyGB/MattyGB/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
 </span>
