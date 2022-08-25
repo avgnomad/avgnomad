@@ -6,9 +6,6 @@
 <a href="https://github.com/MattyGB">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.qwiklabs.com/public_profiles/9168c1cf-6f16-435c-a05e-5652669eb4b0">
-  <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
-</a>
 <a href="mailto:matt@sight3.io">
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
